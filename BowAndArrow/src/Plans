@@ -1,0 +1,9 @@
+Camera is at top left corner of the screen, and draw using camera and a new coordinate grid, will be drawing
+technically the base is top left corner of start. then down is +y up is -y
+set up a drawing of last shot, Color.gray, says power and angle, initial and final click likely stored in player class
+collision
+damage based on speed of arrow and possibly head shot idk, father away from head maybe less damage??
+FIX POWER DIVISOR ROUNDING LOW STUFF TO 0
+could put houses or some shit between them, emphasize the motion
+
+drawing rocks, know num sides, divide 360 degrees by num sides, add little random distance, draw from center?
